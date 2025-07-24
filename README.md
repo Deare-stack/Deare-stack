@@ -1,5 +1,39 @@
-- Hi, I'm Deare! @Deare-stack 👋
-- I’m a graduate student in Computer Science with a passion for AI, databases, and full-stack development. I'm currently exploring machine learning, web development, and full-stack SQL-based projects. I love learning new technologies and building solutions to real-world problems. Feel free to check out my repositories and connect with me!
+<h1 align="center">Hi there 👋, I'm Deare!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Welcome+to+my+GitHub+profile!;Full-stack+Developer;Lifelong+Learner;Coding+Enthusiast" />
+</p>
+
+## 🚀 About Me
+
+- 🔭 I’m a tech dev on YouTube 
+- 🌱 Constantly learning & sharing what I learn
+- 💬 Always learning: Machine Learning, LLMs, MLOps
+- 📫 How to reach me: [LinkedIn]((https://www.linkedin.com/in/deare-abudushalamu/)) | [Email](diyaracode@gmail.com)
+- ⚡ Ask me about: Neural Networks, Java, Python, Spring Boot, Data Engineering
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([your-link](https://www.linkedin.com/in/deare-abudushalamu/))  
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](diyaracode@gmail.com)
+
+
 <!---
 Deare-stack/Deare-stack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
