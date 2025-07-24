@@ -1,15 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Deare!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Deep+Learning+Enthusiast;Generative+AI+Builder;Full-Stack+Developer;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Deep+Learning+%F0%9F%92%BB;Generative+AI+%F0%9F%A7%A0;Machine+Learning+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
 
-- 🔭 I’m a tech dev on YouTube 
+- 🧠 Deep Learning | Generative AI | Machine Learning
+- 🎥 Sharing technical insights and tutorials on [YouTube](https://www.youtube.com/@DiyaraCode)
 - 🌱 Constantly learning & sharing what I learn
-- 💬 Always learning: Machine Learning, LLMs, MLOps
-- 📫 How to reach me: [LinkedIn]((https://www.linkedin.com/in/deare-abudushalamu/)) | [Email](diyaracode@gmail.com)
+- 💬 Always learning: Machine Learning, LLMs, MLOps, VLM
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deare-abudushalamu/) | [Email](mailto:diyaracode@gmail.com)
 - ⚡ Ask me about: Neural Networks, Java, Python, Spring Boot, Data Engineering
 
 ---
@@ -30,8 +31,8 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([your-link](https://www.linkedin.com/in/deare-abudushalamu/))  
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](diyaracode@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/deare-abudushalamu/)  
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:diyaracode@gmail.com)
 
 
 <!---
