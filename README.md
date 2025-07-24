@@ -10,7 +10,7 @@
 - 🎥 Sharing technical insights and tutorials on <a href="https://www.youtube.com/@DiyaraCode" target="_blank" rel="noopener noreferrer">YouTube</a>
 - 🌱 Constantly learning & sharing what I learn
 - 💬 Always learning: Machine Learning, LLMs, MLOps, VLM
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/deare-abudushalamu/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="mailto:diyaracode@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/deare-abudushalamu/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - 🌐 Check out my coding portfolio: [deare-stack.github.io/deare-protfolio](https://deare-stack.github.io/deare-protfolio/)
 
 ---
@@ -33,9 +33,6 @@
 
 <a href="https://www.linkedin.com/in/deare-abudushalamu/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:diyaracode@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-red?logo=gmail" alt="Gmail"/>
 </a>
 
 
