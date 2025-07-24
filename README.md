@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Deare!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Welcome+to+my+GitHub+profile!;Full-stack+Developer;Lifelong+Learner;Coding+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Deep+Learning+Enthusiast;Generative+AI+Builder;Full-Stack+Developer;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
