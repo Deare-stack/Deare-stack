@@ -7,10 +7,10 @@
 ## 🚀 About Me
 
 - 🧠 Deep Learning | Generative AI | Machine Learning
-- 🎥 Sharing technical insights and tutorials on [YouTube](https://www.youtube.com/@DiyaraCode)
+- 🎥 Sharing technical insights and tutorials on <a href="https://www.youtube.com/@DiyaraCode" target="_blank" rel="noopener noreferrer">YouTube</a>
 - 🌱 Constantly learning & sharing what I learn
 - 💬 Always learning: Machine Learning, LLMs, MLOps, VLM
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deare-abudushalamu/) | [Email](mailto:diyaracode@gmail.com)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/deare-abudushalamu/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="mailto:diyaracode@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
 - ⚡ Ask me about: Neural Networks, Java, Python, Spring Boot, Data Engineering
 
 ---
@@ -31,8 +31,12 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/deare-abudushalamu/)  
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:diyaracode@gmail.com)
+<a href="https://www.linkedin.com/in/deare-abudushalamu/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:diyaracode@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-red?logo=gmail" alt="Gmail"/>
+</a>
 
 
 <!---
