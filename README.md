@@ -11,7 +11,7 @@
 - 🌱 Constantly learning & sharing what I learn
 - 💬 Always learning: Machine Learning, LLMs, MLOps, VLM
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/deare-abudushalamu/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="mailto:diyaracode@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
-- ⚡ Ask me about: Neural Networks, Java, Python, Spring Boot, Data Engineering
+- 🌐 Check out my coding portfolio: [deare-stack.github.io/deare-protfolio](https://deare-stack.github.io/deare-protfolio/)
 
 ---
 
